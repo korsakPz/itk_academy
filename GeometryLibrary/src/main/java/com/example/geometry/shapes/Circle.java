@@ -24,6 +24,7 @@ public class Circle {
     }
 
     public String getInfo() {
+
         return String.format("Circle: radius=%.2f, area=%.2f, perimeter=%.2f",
                 radius, getArea(), getPerimeter());
     }

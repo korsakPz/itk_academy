@@ -1,7 +1,8 @@
 package com.example.app;
 
-import com.example.geometry.shapes.Rectangle;
+
 import com.example.geometry.shapes.Circle;
+import com.example.geometry.shapes.Rectangle;
 import com.example.geometry.shapes.Triangle;
 import com.example.geometry.utils.GeometryUtils;
 
@@ -9,6 +10,8 @@ public class Main {
 
 
     public static void main(String[] args) {
+
+
         Circle circle = new Circle(5.0);
         Rectangle rectangle = new Rectangle(4.0, 6.0);
         Triangle triangle = new Triangle(3.0, 4.0, 5.0);
@@ -19,6 +22,6 @@ public class Main {
         System.out.println("Triangle area: " + triangle.getArea());
 
         System.out.println("Comparison: " + GeometryUtils.compareArea(circle, rectangle));
-        System.out.println(circle.getInfo); //==================
+        System.out.println(circle); //==================
     }
 }
