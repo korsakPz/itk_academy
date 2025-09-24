@@ -19,5 +19,6 @@ public class Main {
         System.out.println("Triangle area: " + triangle.getArea());
 
         System.out.println("Comparison: " + GeometryUtils.compareArea(circle, rectangle));
+        System.out.println(circle.getInfo); //==================
     }
 }
