@@ -1,4 +1,4 @@
-package com.geometry.example.shapes;
+package com.example.geometry.shapes;
 
 public class Circle {
 

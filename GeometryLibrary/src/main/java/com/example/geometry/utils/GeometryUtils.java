@@ -1,7 +1,7 @@
-package com.geometry.example.utils;
+package com.example.geometry.utils;
 
-import com.geometry.example.shapes.Circle;
-import com.geometry.example.shapes.Rectangle;
+import com.example.geometry.shapes.Circle;
+import com.example.geometry.shapes.Rectangle;
 
 public class GeometryUtils {
 
