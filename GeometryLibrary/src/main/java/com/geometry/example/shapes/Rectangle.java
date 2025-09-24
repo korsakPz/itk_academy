@@ -1,4 +1,4 @@
-package com.geometry;
+package com.geometry.example.shapes;
 
 public class Rectangle {
 
