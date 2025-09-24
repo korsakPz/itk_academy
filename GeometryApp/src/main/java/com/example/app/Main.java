@@ -1,7 +1,7 @@
 package com.example.app;
 
-import com.example.*;
 import com.example.geometry.shapes.Rectangle;
+import com.example.geometry.shapes.Circle;
 import com.example.geometry.shapes.Triangle;
 import com.example.geometry.utils.GeometryUtils;
 
