@@ -19,4 +19,8 @@ public class GeometryHelper {
         return Math.round(value * scale) / scale;
     }
 
+    public static String formatArea(Shape shape) {
+        return String.format("%s: %.2f", shape.getName(), shape.getArea());
+    }
+
 }

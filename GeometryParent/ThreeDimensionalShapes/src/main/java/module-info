@@ -1,0 +1,4 @@
+module ThreeDimensionalShapes {
+    requires GeometryLibrary;
+    exports threed;
+}

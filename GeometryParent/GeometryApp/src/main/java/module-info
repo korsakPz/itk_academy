@@ -1,0 +1,5 @@
+module GeometryApp {
+    requires GeometryLibrary;
+    requires GeometryUtils;
+    requires ThreeDimensionalShapes;
+}
