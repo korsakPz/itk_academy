@@ -1,6 +1,6 @@
 package geometry;
 
-public class Circle extends Shape{
+public class Circle extends Shape {
 
     private final double radius;
 

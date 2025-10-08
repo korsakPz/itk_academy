@@ -1,6 +1,6 @@
 package geometry;
 
-public class Rectangle extends Shape{
+public class Rectangle extends Shape {
 
     private final double width, height;
 

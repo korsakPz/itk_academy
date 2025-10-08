@@ -1,10 +1,8 @@
 import geometry.Circle;
 import geometry.Rectangle;
-import geometry.Shape;
 import geometryutils.GeometryHelper;
 import threed.Cube;
 import threed.Sphere;
-import threed.ThreeDShape;
 
 
 public class Main {
